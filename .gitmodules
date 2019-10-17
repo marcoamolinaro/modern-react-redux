@@ -7,3 +7,6 @@
 [submodule "seasons"]
 	path = seasons
 	url = https://github.com/marcoamolinaro/seasons.git
+[submodule "pics"]
+	path = pics
+	url = https://github.com/marcoamolinaro/pics.git
