@@ -10,3 +10,6 @@
 [submodule "pics"]
 	path = pics
 	url = https://github.com/marcoamolinaro/pics.git
+[submodule "videos"]
+	path = videos
+	url = https://github.com/marcoamolinaro/videos.git
