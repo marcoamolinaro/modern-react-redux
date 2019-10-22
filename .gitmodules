@@ -13,3 +13,6 @@
 [submodule "videos"]
 	path = videos
 	url = https://github.com/marcoamolinaro/videos.git
+[submodule "songs"]
+	path = songs
+	url = https://github.com/marcoamolinaro/songs.git
