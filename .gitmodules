@@ -19,6 +19,3 @@
 [submodule "songs"]
 	path = songs
 	url = https://github.com/marcoamolinaro/react-redux-songs.git
-[submodule "streams"]
-	path = streams
-	url = https://github.com/marcoamolinaro/react-redux-streams.git
