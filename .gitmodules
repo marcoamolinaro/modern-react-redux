@@ -22,3 +22,6 @@
 [submodule "streams"]
 	path = streams
 	url = https://github.com/marcoamolinaro/react-redux-streams.git
+[submodule "translate"]
+	path = translate
+	url = https://github.com/marcoamolinaro/react-redux-translate.git
