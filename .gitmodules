@@ -25,3 +25,6 @@
 [submodule "translate"]
 	path = translate
 	url = https://github.com/marcoamolinaro/react-redux-translate.git
+[submodule "hooks-simple"]
+	path = hooks-simple
+	url = https://github.com/marcoamolinaro/react-redux-hooks-simple.git
