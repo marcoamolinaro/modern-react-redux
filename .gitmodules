@@ -28,3 +28,6 @@
 [submodule "hooks-simple"]
 	path = hooks-simple
 	url = https://github.com/marcoamolinaro/react-redux-hooks-simple.git
+[submodule "hooks-seasons"]
+	path = hooks-seasons
+	url = https://github.com/marcoamolinaro/react-hooks-seasons.git
